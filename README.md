@@ -1,5 +1,5 @@
 # ardudroid
-ArduDroid default code
+ArduDroid sample code
 
 This repo has sample code of [ArduDroid](https://play.google.com/store/apps/details?id=com.techbitar.android.Andruino). ArduDroid is a Andorid App that communicates your phone and arduino over bluetooth.
 
